@@ -1,0 +1,1 @@
+ a design of a website using looped video in hero section, react,react-router-dom,styled components.
